@@ -1,0 +1,5 @@
+0 chinese beijing chinese
+0 chinese chinese shanghai
+0 chinese macao
+1 tokoyo japan chinese
+
